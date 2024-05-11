@@ -1,6 +1,5 @@
 import gradio as gr
 import requests
-import json
 
 from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
