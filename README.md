@@ -8,4 +8,4 @@ This project consists of two parts:
 Steps to run the app:
 
 1. Install the dependecies - `pip install -r requirements.txt`
-2. To run the app: `python gradio_app.py`
+2. To run the app: `python pythonProject/gradio_app.py`
